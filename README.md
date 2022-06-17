@@ -18,8 +18,8 @@ Here is a list of features, function or non-functional, the we would like to add
 - [ ] Add a option for the user tp delete their account
 - [ ] Add a option for the user to private their posts
 
-## SRS
-[document](https://docs.google.com/document/d/1XIzcDxvqk0s2EKfq9kwLHxLzjQK8xb5tjyCpdFfjh94/edit?usp=sharing)
+## Software Requirements Specifications
+[document](https://docs.google.com/document/d/1O8_jl-otDT6CP5o6mNz4tjO3j9hkBHzb7q05m2aBUbI/edit?usp=sharing)
 
 ## Video Demo
 [demo](https://user-images.githubusercontent.com/33358373/168333726-ff141a30-fbc3-46e2-b915-e088eb35ed70.mp4)
